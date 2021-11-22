@@ -1,6 +1,6 @@
 <div align="center" >
 
-## Hi there👋, I'm [Akash](https://github.com/akaash67)  <img width="100" height="100" alt="GIF" src="https://media.giphy.com/media/47Inifgaw0vdR10LVI/giphy.gif" />
+## Hi there👋, I'm [Akash](https://github.com/CoderDotJs)  <img width="100" height="100" alt="GIF" src="https://media.giphy.com/media/47Inifgaw0vdR10LVI/giphy.gif" />
 </div>
 
 #### About me  
@@ -48,7 +48,7 @@ I am a Full Stack Developer. I have done many certifications related to Web Deve
 
 
 
-⭐️ From [Akash](https://github.com/akaash67)
+⭐️ From [Akash](https://github.com/CoderDotJs)
 
 [linkedin]: https://www.linkedin.com/in/md-johirul-islam-akash-7310b6174/
 [instagram]: https://instagram.com/md.akash3080
