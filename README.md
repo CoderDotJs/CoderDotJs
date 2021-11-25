@@ -4,7 +4,7 @@
 </div>
 
 #### About me  
-I am a Full Stack Developer. I have done many certifications related to Web Development. I love to create attractive websites. Currently I am learning React.
+I am a Full Stack Developer. I have done many certifications related to Web Development. I love to create attractive websites. Currently I am learning Next js.
 
 - ✨Fun-Fact: I love to collect certificates🙃
 - 🕹️ Hobbies : Watching Movies📺, Crypto Trading ₿, and Gaming🎮.
